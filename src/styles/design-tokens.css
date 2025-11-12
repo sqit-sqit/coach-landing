@@ -1,0 +1,49 @@
+:root {
+  /* Color Dictionary - Primary Colors */
+  --color-yellow: #FBD346;
+  --color-grey-text: #333333;
+  --color-grey: #CCCCCC;
+  --color-white: #FFFFFF;
+  --color-yellow-light: #FFEFB9;
+  --color-beige-2: #FCF9F1;
+  --color-yellow-light-2: #FFFDF1;
+  --color-grey-light-2: #D1D5E1;
+  --color-green-fark: #3D7A74;
+  --color-blue-light-soft: #B9DAED;
+  --color-green-hover: #579892;
+  --color-red-alert: #CC3333;
+  --color-grey-middle: #868686;
+  --color-blue-dark: #192B6B;
+
+  /* Legacy color mappings for backward compatibility */
+  --color-light-grey: var(--color-grey);
+  --color-yellow-logo: var(--color-yellow);
+  --color-blue-light: #e0f2f0; /* For tag background */
+  --color-orange-light: #fce8d7; /* For tag background */
+  --color-hero-bg: var(--color-beige-2);
+  --color-yellow-hero: var(--color-yellow);
+  --color-blue-hero: #e0f2f0; /* Hero blue section */
+
+  /* Typography */
+  --font-family-montserrat: 'Montserrat', sans-serif;
+  --font-size-sm: 14px;
+  --font-size-md: 16px;
+  --font-size-lg: 18px;
+  --font-size-xl: 22px;
+  --font-size-2xl: 28px;
+  --font-size-3xl: 36px;
+  --font-size-4xl: 48px;
+
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  --line-height-sm: 18px;
+  --line-height-md: 24px;
+  --line-height-lg: 27px;
+  --line-height-xl: 30px;
+  --line-height-2xl: 36px;
+  --line-height-3xl: 44px;
+  --line-height-4xl: 56px;
+}

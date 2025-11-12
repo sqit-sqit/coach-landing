@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FCF9F1"/>
+      <stop offset="1" stop-color="#F8D749"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <text x="60" y="120" font-family="Montserrat, Arial, sans-serif" font-size="46" font-weight="700" fill="#222">Flow‑XR</text>
+  <text x="60" y="200" font-family="Montserrat, Arial, sans-serif" font-size="40" font-weight="700" fill="#222">Interaktywna przestrzeń do coachingu</text>
+  <text x="60" y="250" font-family="Montserrat, Arial, sans-serif" font-size="40" font-weight="700" fill="#222">i autorefleksji</text>
+  <rect x="60" y="300" width="420" height="8" fill="#222" opacity="0.2"/>
+  <text x="60" y="370" font-family="DM Sans, Arial, sans-serif" font-size="26" fill="#333">Metody wizualne • Sesje online • Wsparcie AI</text>
+</svg>
+
+

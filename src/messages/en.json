@@ -1,0 +1,591 @@
+{
+  "navigation": {
+    "home": "Home",
+    "forCoaches": "For coaches & therapists",
+    "forYourself": "For Yourself",
+    "contact": "Contact",
+    "login": "Login",
+    "signUp": "Sign Up"
+  },
+  "hero": {
+    "title": "Interactive workspace for coaching and self-reflection",
+    "cta": "Get started"
+  },
+  "forWhom": {
+    "title": "For Whom",
+    "subtitle": "Choose the path that meets your needs",
+    "coaches": {
+      "title": "For coaches & therapists",
+      "description": "Flow-XR is a collection of interactive boards designed for one-on-one and group work using visual methods. Experience real-time online sessions as if you were sitting with your client at the same table."
+    },
+    "yourself": {
+      "title": "For Yourself",
+      "description": "Explore processes of self-reflection and personal growth through methods created by our partners, based on their knowledge and experience — supported by AI that offers an experience close to working with a real human coach.",
+      "cta": "Get started"
+    }
+  },
+  "flowXR": {
+    "title": "Flow-XR",
+    "description": "Flow-XR replaces the physical elements that coaches, therapists and their clients normally use on their desks. It transforms them into a shared digital board where both sides can interact in real time"
+  },
+  "forCoachesTherapists": {
+    "tag": "FOR COACHES & THERAPISTS",
+    "title": "Learn more about our solution",
+    "subtitle": "Choose the path that meets your needs",
+    "cards": {
+      "systemic": {
+        "title": "Systemic Constellations",
+        "description": "Replace physical figurines on your desk and additional cameras with an intuitive application."
+      },
+      "bogoban": {
+        "title": "Bogoban",
+        "description": "Bring the experience of tracking your client's drawings to an online board."
+      },
+      "development": {
+        "title": "Pyramid of Thinking",
+        "description": "Build your personal development foundation with our structured approach.",
+        "comingSoon": "Coming soon"
+      }
+    },
+    "learnMore": "Learn more"
+  },
+  "philosophy": {
+    "title": "Philosophy",
+    "mission": "The mission of Flow-XR is to make technology a servant of personal and spiritual growth — providing easy, affordable access to self-development tools."
+  },
+  "getStarted": {
+    "cta": "Get Started"
+  },
+  "auth": {
+    "signup": {
+      "title": "Welcome to Flow-XR",
+      "subtitle": "Sign up to Flow-XR",
+      "emailLabel": "Email address *",
+      "emailPlaceholder": "Enter your email",
+      "passwordLabel": "Password *",
+      "passwordPlaceholder": "Enter your password",
+      "continueButton": "Continue",
+      "orSeparator": "or",
+      "googleButton": "Continue with Google",
+      "loginLink": "Already have an account?",
+      "loginButton": "Log in",
+      "agreeTerms": "By registering, you agree to our",
+      "agreePrivacy": "and",
+      "termsOfUse": "Terms of Use",
+      "privacyPolicy": "Privacy Policy"
+    },
+    "login": {
+      "title": "Welcome to Flow-XR",
+      "subtitle": "Log in to Flow-XR",
+      "emailLabel": "Email address *",
+      "emailPlaceholder": "Enter your email",
+      "passwordLabel": "Password *",
+      "passwordPlaceholder": "Enter your password",
+      "forgotPassword": "Forgot Password",
+      "continueButton": "Continue",
+      "orSeparator": "or",
+      "googleButton": "Log in with Google",
+      "signupLink": "Don't have an account?",
+      "signupButton": "Sign in"
+    }
+  },
+  "howItWorks": {
+    "title": "How does it work",
+    "subtitle": "Lorem ipsum dolor sit amet consectetur adipiscing elit semper dalar elementum tempus hac tellus libero accumsan.",
+    "step1": "Log to your account",
+    "step2": "Start your session and copy the link",
+    "step3": "Share the link with your client",
+    "step4": "Run a shared session"
+  },
+  "howWeSupport": {
+    "tag": "FOR COACHES & THERAPISTS",
+    "title": "How we support your journey",
+    "subtitle": "You'll work with images through Flow-XR — a remote tool whose power lies in its simplicity.",
+    "steps": {
+      "step1": {
+        "title": "Get Started",
+        "description": "Begin your journey with our intuitive onboarding process."
+      },
+      "step2": {
+        "title": "Learn & Practice",
+        "description": "Access our comprehensive learning materials and practice tools."
+      },
+      "step3": {
+        "title": "Connect & Grow",
+        "description": "Join our community and connect with like-minded individuals."
+      },
+      "step4": {
+        "title": "Master & Lead",
+        "description": "Develop mastery and become a leader in your field."
+      }
+    }
+  },
+  "benefits": {
+    "title": "Benefits",
+    "cards": {
+      "accessibility": {
+        "title": "Accessibility",
+        "description": "Access systemic work from anywhere, anytime."
+      },
+      "flexibility": {
+        "title": "Flexibility",
+        "description": "Work at your own pace and schedule."
+      },
+      "community": {
+        "title": "Insights",
+        "description": "New way of working brings new sources of insights"
+      },
+      "growth": {
+        "title": "Growth",
+        "description": "Experience the growing number of satisfied clients"
+      }
+    }
+  },
+  "forYourself": {
+    "tag": "FOR YOURSELF",
+    "title": "For Yourself",
+    "subtitle": "Work on yourself in a safe space — independently, but not alone.",
+    "features": {
+      "values": "Values — grounding in your personal principles.",
+      "goals": "Workshops — practices for conscious growth.",
+      "growth": "GROW Model — a proven framework for achieving goals",
+      "wisdom": "Human Design — understanding yourself and your strengths",
+      "balance": "My Paths — personalized roadmaps for development."
+    },
+    "cta": "Get started"
+  },
+  "testimonials": {
+    "tag": "CLIENT SUCCESS STORY",
+    "title": "What our clients say",
+    "cards": {
+      "card1": {
+        "title": "\"My go-to practice for clarity\"",
+        "description": "I often turn to this process when I feel stuck. Placing the elements on the board helps me untangle thoughts and reconnect with what truly matters.",
+        "author": "MARK J.",
+        "role": "Leadership Consultant & Trainer."
+      },
+      "card2": {
+        "title": "\"Coaching myself with ease\"",
+        "description": "I love that I can use it anytime — no partner needed. It's a simple yet profound way to explore decisions and emotions visually.",
+        "author": "LAURA CH.",
+        "role": "Personal Development Coach."
+      }
+    }
+  },
+  "latestNews": {
+    "tag": "LATEST NEWS",
+    "title": "Latest News",
+    "card": {
+      "title": "New Features Coming Soon",
+      "description": "We're excited to announce new features that will enhance your experience with Flow-XR.",
+      "readMore": "Read more"
+    }
+  },
+  "faq": {
+    "title": "FAQ",
+    "questions": {
+      "q1": {
+        "question": "What is Flow-XR?",
+        "answer": "Flow-XR is a digital platform that provides visual tools for coaches and therapists to work with their clients and for individuals to take self-reflection and personal development sessions"
+      },
+      "q2": {
+        "question": "How does it work for coaches and therapists?",
+        "answer": "Simply log in to your account and choose the method you work with. Share the link with your client and experience the real-time shared board."
+      },
+      "q3": {
+        "question": "Is it suitable for beginners?",
+        "answer": "Yes! With its intuitive interface Flow-XR is designed to be used with ease and without any need of special training."
+      },
+      "q4": {
+        "question": "Can I use it with mobile?",
+        "answer": "For Yourself as individual you can work with your mobile. However the nature of sessions with coaches or therapists require desktop."
+      }
+    }
+  },
+  "cta": {
+    "title": "Transform Potential into Performance",
+    "description": "Harness personalized coaching to unlock leadership, innovation, and sustainable success.",
+    "button": "Get started"
+  },
+  "unlockPower": {
+    "title": "Unlock the Power of Coaching",
+    "description": "Enhance leadership, boost performance, and drive growth with personalized, human-led coaching.",
+    "button": "Get started"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team",
+    "form": {
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "company": "Company",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "bogoban": {
+    "breadcrumbs": {
+      "coaches": "For coaches & therapists",
+      "systemic": "Systemic Constellations"
+    },
+    "hero": {
+      "title": "Bogoban Online",
+      "subtitle": "Unlock your mind and explore deeper self-awareness with the Bogoban method - begin your transformation today",
+      "cta": "Get started"
+    },
+    "intro": {
+      "tag": "FOR COACHES & THERAPISTS",
+      "title": "Bogoban",
+      "subtitle": "A method for visual modeling of situations you are in and their redesign."
+    },
+    "video": {
+      "title": "Take a look at Bogoban.",
+      "description": "Watch a short video to learn how to use the board"
+    },
+    "description": {
+      "text": "BoGoban is a simple square field where you intuitively place stones. Each move shifts your feelings, evokes images and emotions, and forms figures that influence your PROJECT.",
+      "author": "Autor: Pavel Piskarev, founder of the Institute of Creativity Psychology.",
+      "cta1": "Try Bogoban",
+      "cta2": "Download BoGoban board"
+    },
+    "benefits": {
+      "title": "Key Benefits",
+      "benefit1": {
+        "title": "Gain Clarity",
+        "description": "Visualize and understand hidden patterns in your project or life situation."
+      },
+      "benefit2": {
+        "title": "Unlock Emotional Insights",
+        "description": "Discover the emotional dynamics that influence your decisions and relationships."
+      },
+      "benefit3": {
+        "title": "Move Forward with Confidence",
+        "description": "Transform insights into actionable steps for personal and professional growth."
+      }
+    }
+  },
+  "systemicConstellations": {
+    "breadcrumbs": {
+      "coaches": "For coaches & therapists",
+      "systemic": "Systemic Constellations"
+    },
+    "hero": {
+      "title": "Systemic and Family Constellations Online",
+      "subtitle": "Discover hidden family dynamics and restore balance through systemic constellation work - begin your transformation today",
+      "cta": "Get started"
+    },
+    "intro": {
+      "tag": "FOR COACHES & THERAPISTS",
+      "title": "Systemic Constellations",
+      "subtitle": "A method that reveals hidden dynamics to restore balance and insight."
+    },
+    "video": {
+      "title": "Take a look at Systemic Constellations.",
+      "description": "Watch a short video to learn how to use the board"
+    },
+    "description": {
+      "text": "Online Board for Systemic and Family Constellations by Bert Hellinger. Replace figures on your desk with a simple application.",
+      "author": "Author: Bert Hellinger, founder of Family Constellations.",
+      "cta1": "Try it",
+      "cta2": "Download Systemic Constellations guide"
+    },
+    "benefits": {
+      "title": "Key Benefits",
+      "benefit1": {
+        "title": "Reveal Hidden Patterns",
+        "description": "Discover unconscious family dynamics that influence your life and relationships."
+      },
+      "benefit2": {
+        "title": "Restore Balance",
+        "description": "Heal family entanglements and restore natural order in your system."
+      },
+      "benefit3": {
+        "title": "Gain Deep Insights",
+        "description": "Understand the root causes of your challenges and find lasting solutions."
+      }
+    }
+  },
+  "termsOfUse": {
+    "title": "Terms of Use",
+    "lastUpdated": "Last updated",
+    "lastUpdatedDate": "14 October 2025",
+    "welcome": "Welcome to Flow-XR, a web application operated by Flow System Adam Grono, offering AI-assisted coaching sessions in the areas of personal development, spirituality, leadership, and related topics (\"the App\").",
+    "intro": "By using this App, you agree to these Terms of Use. Please read them carefully before accessing or using any part of the App.",
+    "section1": {
+      "title": "1. Definitions",
+      "items": [
+        "App – the Flow-XR web application available at https://flow-xr.com.",
+        "User / You – any person accessing or using the App, whether registered or as a guest.",
+        "Account – a user account created via email or Google OAuth login.",
+        "AI Services – responses or interactions generated by external artificial intelligence models (e.g., OpenAI).",
+        "We / Us / Provider – Flow System Adam Grono, Lesoka 2/4, 81-574 Gdynia, Poland, kontakt@adamgrono.eu."
+      ]
+    },
+    "section2": {
+      "title": "2. Acceptance of Terms",
+      "content": "By accessing or using the App, you confirm that you:",
+      "items": [
+        "have read and understood these Terms of Use,",
+        "agree to comply with them,",
+        "are at least 18 years old or have legal capacity to enter into binding agreements."
+      ],
+      "footer": "If you do not agree with these Terms, you must not use the App."
+    },
+    "section3": {
+      "title": "3. Description of Services",
+      "content": "Flow-XR provides AI-assisted coaching experiences designed to support self-development, reflection, and personal growth. Some features may require account registration or authentication via Google OAuth.",
+      "features": "The App may include:",
+      "items": [
+        "interactive chat sessions with AI,",
+        "progress tracking,",
+        "saved session history,",
+        "user reflections or notes."
+      ],
+      "disclaimer": "Flow-XR is not a substitute for professional therapy, medical advice, or counseling. It serves exclusively educational, reflective, and developmental purposes."
+    },
+    "section4": {
+      "title": "4. User Responsibilities",
+      "content": "You agree to:",
+      "items": [
+        "use the App lawfully and respectfully,",
+        "not share illegal, offensive, or harmful content,",
+        "not use the App for marketing, spamming, or automated scraping,",
+        "keep your login credentials secure,",
+        "use your own data responsibly, avoiding sensitive or confidential information."
+      ],
+      "footer": "You are responsible for all activity conducted under your account."
+    },
+    "section5": {
+      "title": "5. AI-Generated Content Disclaimer",
+      "content": "The App uses publicly available AI models (e.g., OpenAI) to generate coaching dialogue. While the AI is designed to be supportive and inspiring, its responses:",
+      "items": [
+        "are generated automatically,",
+        "may be incomplete, inaccurate, or subjective,",
+        "do not constitute professional, medical, psychological, or legal advice."
+      ],
+      "footer": "We recommend using your own judgment when interpreting AI responses. Flow-XR is not liable for decisions made based on AI-generated content."
+    },
+    "section6": {
+      "title": "6. Account Registration and Security",
+      "content": "Users may register using:",
+      "item1": "email and password, or",
+      "item2": "Google OAuth authentication.",
+      "content2": "You agree to:",
+      "items": [
+        "provide accurate and current information,",
+        "protect your account credentials,",
+        "immediately report any unauthorized use to kontakt@adamgrono.eu."
+      ],
+      "footer": "We reserve the right to suspend or delete accounts that violate these Terms or applicable laws."
+    },
+    "section7": {
+      "title": "7. Guest Users",
+      "content": "Guest users may access limited features of the App without creating an account. Guest progress is identified via a temporary ID stored in the browser's localStorage. This data is not linked to personally identifiable information and can be deleted by the user at any time."
+    },
+    "section8": {
+      "title": "8. Intellectual Property",
+      "content": "All materials within the App, including text, design, branding, code, and visual assets, are the property of Flow System Adam Grono or its licensors.",
+      "content2": "Users may use the App solely for personal, non-commercial purposes. Reproduction, distribution, modification, or reverse engineering of the App or its components is prohibited without written consent."
+    },
+    "section9": {
+      "title": "9. Privacy and Data Protection",
+      "content": "Use of the App is governed by our Privacy Policy. By using the App, you consent to the processing of your personal data in accordance with that policy."
+    },
+    "section10": {
+      "title": "10. Availability and Modifications",
+      "content": "We aim to ensure the App operates reliably but do not guarantee uninterrupted or error-free access. We may update, modify, suspend, or discontinue features at any time without prior notice. In case of significant changes, users will be informed in advance."
+    },
+    "section11": {
+      "title": "11. Limitation of Liability",
+      "content": "To the fullest extent permitted by law:",
+      "items": [
+        "Flow-XR shall not be liable for any indirect, incidental, or consequential damages arising from the use or inability to use the App.",
+        "We are not responsible for actions taken based on AI-generated suggestions or interpretations.",
+        "The App is provided \"as is\", without warranties of accuracy or completeness."
+      ],
+      "footer": "This limitation does not affect rights guaranteed by consumer protection laws."
+    },
+    "section12": {
+      "title": "12. Termination",
+      "content": "You may delete your account at any time from your user dashboard or by contacting kontakt@adamgrono.eu. We may suspend or terminate access if you violate these Terms or use the App unlawfully.",
+      "content2": "Upon deletion, all personal data will be processed according to our Privacy Policy."
+    },
+    "section13": {
+      "title": "13. Governing Law and Jurisdiction",
+      "content": "These Terms are governed by the laws of Poland and European Union regulations. Any disputes shall be resolved by competent courts in Poland, unless otherwise required by mandatory local consumer law."
+    },
+    "section14": {
+      "title": "14. Contact",
+      "content": "If you have questions or concerns about these Terms, please contact:"
+    }
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "intro": "This Privacy Policy explains how we collect, use, store, and protect your personal data when you use our web application (\"Flow-XR\"), which provides AI-assisted coaching sessions focused on personal development, spirituality, leadership, and related fields.",
+    "commitment": "We are committed to protecting your privacy and complying with the General Data Protection Regulation (GDPR) and other applicable data protection laws.",
+    "lastUpdated": "Last updated",
+    "lastUpdatedDate": "14 October 2025",
+    "section1": {
+      "title": "1. Data Controller",
+      "content": "The controller of your personal data is:",
+      "company": "Flow System Adam Grono",
+      "address": "Lesoka 2/4, 81-574 Gdynia, Poland",
+      "footer": "If you have any questions regarding this Privacy Policy or your personal data, please contact us at the email address above."
+    },
+    "section2": {
+      "title": "2. Categories of Personal Data We Collect",
+      "content": "We process the following categories of personal data:",
+      "items": [
+        "Account information (for logged-in users): name, email address, User ID.",
+        "Session data: session timestamps, your responses, notes, and chat transcripts generated during coaching sessions, used solely to provide session history and continuity.",
+        "Feedback and ratings: any feedback or ratings you provide within the App.",
+        "Technical data (collected by hosting provider DigitalOcean): IP address, request timestamps, HTTP status codes, request paths, browser type, and operating system. These logs are used for security and operational purposes and are retained for approximately 7 days.",
+        "OAuth data: when you log in via Google OAuth, we receive limited information (such as your Google account email and name) to authenticate your identity. Authenticated users are identified by their Google Account ID, provided by Google during the OAuth authentication process. We do not create, modify, or control this identifier.",
+        "Guest user data: guest users receive a temporary identifier generated in their browser, consisting of a timestamp and random string (e.g., guest-1234567890-abc123). This ID is stored in your browser's localStorage and our database.",
+        "Cookies and localStorage data: we use browser localStorage to store your authentication token and session data. No cookies are set by our application. You can clear this data at any time through your browser settings. See Section 6 for details.",
+        "Payment data (if applicable): processed via third-party payment processors; we do not store full card details."
+      ]
+    },
+    "section3": {
+      "title": "3. Purpose and Legal Basis for Processing",
+      "content": "The processing purposes and corresponding legal bases are as follows:",
+      "tableHeader1": "Purpose",
+      "tableHeader2": "Legal Basis (Article 6 GDPR)",
+      "tableRows": [
+        {
+          "purpose": "Creating and managing your account",
+          "basis": "Performance of a contract (Art. 6(1)(b))"
+        },
+        {
+          "purpose": "Providing and improving coaching sessions",
+          "basis": "Performance of a contract (Art. 6(1)(b))"
+        },
+        {
+          "purpose": "Logging in via Google OAuth",
+          "basis": "Performance of a contract (Art. 6(1)(b))"
+        },
+        {
+          "purpose": "Operating, securing, and maintaining the App",
+          "basis": "Legitimate interest (Art. 6(1)(f))"
+        },
+        {
+          "purpose": "Communicating with users and providing support",
+          "basis": "Legitimate interest (Art. 6(1)(f))"
+        },
+        {
+          "purpose": "Compliance with legal and accounting obligations",
+          "basis": "Legal obligation (Art. 6(1)(c))"
+        }
+      ],
+      "footer": "We do not use your personal data for marketing, advertising, or profiling."
+    },
+    "section4": {
+      "title": "4. Use of AI Services",
+      "content": "Flow-XR uses publicly available artificial intelligence models (e.g., OpenAI or similar) to support the coaching process.",
+      "note": "Please note:",
+      "items": [
+        "Responses are generated dynamically based on your input.",
+        "We do not control or modify how external AI services process that input.",
+        "Therefore, you should not share sensitive personal data (e.g., health, religion, political opinions, sexual orientation, or data about third parties such as your clients).",
+        "All AI communications are transmitted via encrypted channels."
+      ]
+    },
+    "section5": {
+      "title": "5. Google OAuth Login",
+      "content": "The App uses Google OAuth to allow you to log in securely using your Google account. When you use this option:",
+      "content2": "We receive only basic profile information (your name and email) from Google to verify your identity.",
+      "items": [
+        "Google may set its own cookies to manage authentication and session status.",
+        "These cookies are subject to Google's privacy policy, which you can review here: 🔗 Google Privacy Policy"
+      ],
+      "footer": "We do not gain access to your Google password or any unrelated data from your Google account."
+    },
+    "section6": {
+      "title": "6. Use of Local Storage",
+      "content": "The App stores a limited set of data locally in your browser using localStorage, including:",
+      "items": [
+        "auth_token – to keep you logged in,",
+        "guest_user_id – to track anonymous session progress."
+      ],
+      "footer": "These items are stored only in your browser, are not transmitted to our servers, and you can delete them at any time through your browser's settings or developer tools. They exist solely to enhance user experience and session continuity."
+    },
+    "section7": {
+      "title": "7. Data Sharing and International Transfers",
+      "content": "We share data only when necessary, and only with:",
+      "items": [
+        "Service providers that support the operation of the Flow-XR application (e.g., hosting and authentication).",
+        "External AI providers (to generate AI-assisted responses)."
+      ],
+      "content2": "Some partners may be based outside the European Economic Area (EEA). In such cases, we rely on Standard Contractual Clauses (SCCs) or other safeguards ensuring adequate protection under GDPR.",
+      "footer": "We never sell or rent your personal data to third parties."
+    },
+    "section8": {
+      "title": "8. Data Retention",
+      "content": "Your personal data are kept only as long as necessary for the purposes described above:",
+      "items": [
+        "Account data: retained while your account is active.",
+        "Session data: retained until you delete it or your account is removed.",
+        "OAuth data: stored only for account linking; removed upon account deletion.",
+        "Technical data and logs: retained for up to approximately 7 days.",
+        "Inactive accounts: may be deleted after 12 months of inactivity."
+      ],
+      "footer": "You may delete your account from your dashboard or request deletion of your account or session data at any time (see Section 10)."
+    },
+    "section9": {
+      "title": "9. Data Security",
+      "content": "We apply technical and organizational safeguards to protect your data, including:",
+      "items": [
+        "Encryption in transit (SSL/TLS),",
+        "Secure password hashing,",
+        "Limited employee access,",
+        "Regular security reviews and monitoring."
+      ],
+      "content2": "We continuously monitor our systems for vulnerabilities and regularly review our data protection practices to ensure compliance with the latest security standards.",
+      "footer": "While we strive to protect your data, no system is entirely invulnerable. Users are encouraged to use strong passwords and log out from shared devices."
+    },
+    "section10": {
+      "title": "10. Your Rights Under GDPR",
+      "content": "You have the following rights under the General Data Protection Regulation (GDPR):",
+      "items": [
+        "Access: to obtain a copy of your personal data.",
+        "Rectification: to correct inaccurate or incomplete data.",
+        "Erasure: to request deletion (\"right to be forgotten\").",
+        "Restriction: to limit certain processing.",
+        "Portability: to receive your data in a structured, machine-readable format.",
+        "Objection: to processing based on legitimate interest.",
+        "Complaint: to lodge a complaint with a supervisory authority (in Poland: President of the Personal Data Protection Office, ul. Stawki 2, 00-193 Warsaw, Poland)."
+      ],
+      "content2": "To exercise your rights, please contact us at admin@flow-xr.com.",
+      "footer": ""
+    },
+    "section11": {
+      "title": "11. Cookies and Tracking Technologies",
+      "content": "As stated in Sections 2 and 6, we do not use cookies. We rely on browser localStorage to store your authentication token and session data. You can clear this data at any time through your browser settings."
+    },
+    "section12": {
+      "title": "12. Changes to This Privacy Policy",
+      "content": "We may update this Privacy Policy periodically. The updated version will be posted on this page with a revised \"Last updated\" date. If changes are significant, we will notify you by email or within the App before they take effect."
+    },
+    "section13": {
+      "title": "13. Contact Information",
+      "content": "If you have any questions, concerns, or requests related to this Privacy Policy, please contact us at:"
+    },
+    "section14": {
+      "title": "14. Summary for Users",
+      "items": [
+        "Your data are used only to provide and improve your coaching experience.",
+        "We use Google OAuth for secure login and localStorage to store minimal session data on your device.",
+        "We do not sell, profile, or share your personal information beyond what is necessary to run the App.",
+        "Please avoid entering sensitive data during AI-assisted sessions, as they use public AI models."
+      ],
+      "footer": "✅ This Privacy Policy is fully compliant with the General Data Protection Regulation (GDPR, EU 2016/679) and covers all legally required elements, including the use of third-party authentication (Google OAuth) and browser localStorage."
+    }
+  },
+  "metadata": {
+    "home": {
+      "title": "Flow-XR Interactive Workspace for Coaches, Therapists & Self-Reflection",
+      "description": "For coaches and therapists to experience real-time online sessions with their clients using visual methods. For yourself to explore processes of self-reflection for personal growth."
+    }
+  }
+}
