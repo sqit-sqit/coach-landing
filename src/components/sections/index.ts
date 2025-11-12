@@ -6,6 +6,7 @@ export * from './ForCoachesFrame';
 export * from './GetStarted';
 export * from './HowItWorks';
 export * from './PhilosophyMain';
+export * from './Philosophy';
 export * from './HowWeSupport';
 export * from './HowWeSupportFrame';
 export * from './SupportCardsGrid';
