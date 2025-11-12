@@ -6,11 +6,11 @@ import { Button } from '@/components/ui';
 import { cn } from '@/lib/utils';
 import { useTranslations } from '@/hooks/useTranslations';
 
-interface GetStartedProps {
+interface PhilosophyProps {
   className?: string;
 }
 
-const GetStarted: React.FC<GetStartedProps> = ({ className }) => {
+const Philosophy: React.FC<PhilosophyProps> = ({ className }) => {
   const { t } = useTranslations();
   
   return (
@@ -58,4 +58,4 @@ const GetStarted: React.FC<GetStartedProps> = ({ className }) => {
   );
 };
 
-export { GetStarted };
+export { Philosophy };
