@@ -8,3 +8,4 @@ export { Paragraph } from './Paragraph';
 export { ProductImage } from './ProductImage';
 export { Heading } from './Heading';
 export { Breadcrumbs } from './Breadcrumbs';
+export type { BreadcrumbItem } from './Breadcrumbs';
