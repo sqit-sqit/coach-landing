@@ -3,7 +3,7 @@
 import React from 'react';
 import { cn } from '@/lib/utils';
 
-export interface SupportCard {
+export interface SupportCardsGridItem {
   number: number;
   title: string;
   description: string;
@@ -11,7 +11,7 @@ export interface SupportCard {
 
 interface SupportCardsGridProps {
   className?: string;
-  cards: SupportCard[];
+  cards: SupportCardsGridItem[];
 }
 
 /**
@@ -43,7 +43,7 @@ const SupportCardsGrid: React.FC<SupportCardsGridProps> = ({ className, cards })
   );
 
   // Support Card Item Component
-  const SupportCardItem = ({ card }: { card: SupportCard }) => (
+  const SupportCardItem = ({ card }: { card: SupportCardsGridItem }) => (
     <div className="w-full lg:w-[350px] lg:h-[195px] flex flex-col rounded-[24px] bg-[#FCF9F1] p-6">
       {/* Frame 1261159531 - Content (302px × 117px) */}
       <div className="w-full flex items-start gap-4">

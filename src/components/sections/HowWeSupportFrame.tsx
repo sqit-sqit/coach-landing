@@ -5,16 +5,13 @@ import Image from 'next/image';
 import { Heading, Paragraph } from '@/components/ui';
 import { cn } from '@/lib/utils';
 import { useTranslations } from '@/hooks/useTranslations';
+import type { SupportCardsGridItem } from './SupportCardsGrid';
 
-export interface SupportCard {
-  number: number;
-  title: string;
-  description: string;
-}
+export interface HowWeSupportCard extends SupportCardsGridItem {}
 
 interface HowWeSupportFrameProps {
   className?: string;
-  cards?: SupportCard[];
+  cards?: HowWeSupportCard[];
 }
 
 /**
@@ -26,7 +23,7 @@ const HowWeSupportFrame: React.FC<HowWeSupportFrameProps> = ({ className, cards 
   const { t } = useTranslations();
   
   // Default cards if not provided
-  const defaultCards: SupportCard[] = [
+  const defaultCards: HowWeSupportCard[] = [
     {
       number: 1,
       title: "Start with what is",
